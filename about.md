@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-![Image of Victoria's dog](https://raw.githubusercontent.com/vic-95/vic-95.github.io/master/images/00100lPORTRAIT_00100_BURST20190608164443145_COVER.jpg){width=50%}
-
-This blog was created for ST-558, data science for statisticians and will be updated regularly during the Fall 2021 semester.
+This blog was created for ST-558, data science for statisticians, and will be updated regularly during the Fall 2021 semester. 
 
 ### More Information
 
-there! I'm Victoria: dog mom, data analyst, and aspiring data scientist. I work in revenue operations for a small tech company in Raleigh and am pursuing a graduate certificate in Applied Statistics and Data Management.
+Hi there, I'm Victoria (she/her) I am:
+*  the data analyst for the RevOps team at Relay Inc.
+*  an aspiring data scientist
+*  a very enthusiastic dog mom
 
-Outside work and school, you'll usually find me taking my dog Luffy to the park, bouldering at the rock climbing gym, or working on a new drawing.
+<table>
+  <tr>
+    <td>
+      <img src = https://raw.githubusercontent.com/vic-95/vic-95.github.io/master/images/linkedin_pfp.jpeg width = 200 alt text = "image of Victoria">
+    </td>
+    <td>
+      I graduated from UNC: Chapel Hill in 2017 with a BA in Studio Art and am currently pursuing a graduate certificate in Applied Statistics and Data Management. Outside work and school, you'll usually find me taking my dog Luffy to the park, bouldering at the rock climbing gym, or working on a new drawing.
+    </td>
+  </tr>
+</table>
 
 ### Contact me
 
