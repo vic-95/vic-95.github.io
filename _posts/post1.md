@@ -1,7 +1,5 @@
----
-layout: post
-title: HW 01 - Data Science v Statistics
----
+HW 01 - Data Science v Statistics
+================
 
 **What do you think being a data scientist is about?**
 
