@@ -1,7 +1,6 @@
 ---
 title: "Programming Background"
 author: "Victoria Seng"
-date: "9/9/2021"
 ---
 
 ---

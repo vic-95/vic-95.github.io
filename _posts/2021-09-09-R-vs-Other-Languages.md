@@ -1,7 +1,6 @@
 R vs Other Languages
 ================
 Victoria Seng
-9/9/2021
 
 ## R vs Other Languages
 
