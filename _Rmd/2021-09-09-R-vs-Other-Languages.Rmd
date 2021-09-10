@@ -14,7 +14,7 @@ knitr::opts_chunk$set(fig.path = "../images/")
 ```
 
 ```{r render, include = FALSE, eval = FALSE}
-rmarkdown::render("./_Rmd/2021-09-09-post2.Rmd", 
+rmarkdown::render("./_Rmd/2021-09-09-R-vs-Other-Languages.Rmd", 
           output_format = "github_document",
           output_dir = "./_posts", 
           output_options = list(
