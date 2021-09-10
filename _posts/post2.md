@@ -1,7 +1,7 @@
----
-layout: post
-title: Programming Background
----
+Programming Background
+================
+Victoria Seng
+9/9/2021
 
 ## R vs Other Languages
 
