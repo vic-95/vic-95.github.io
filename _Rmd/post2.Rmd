@@ -4,6 +4,11 @@ author: "Victoria Seng"
 date: "9/9/2021"
 ---
 
+---
+layout: post
+title: Programming Background
+---
+
 ```{r setup, echo=FALSE}
 knitr::opts_chunk$set(fig.path = "../images/")
 ```
@@ -14,6 +19,7 @@ rmarkdown::render("./_Rmd/post2.Rmd",
           output_dir = "./_posts", 
           output_options = list(
             toc = FALSE, 
+            html_preview = FALSE, 
             keep_html = FALSE
             )
           )
