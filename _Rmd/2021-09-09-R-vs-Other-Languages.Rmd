@@ -5,7 +5,6 @@ author: "Victoria Seng"
 
 ---
 layout: post
-title: R vs Other Languages
 ---
 
 ```{r setup, echo=FALSE}

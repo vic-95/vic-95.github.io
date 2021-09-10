@@ -5,7 +5,6 @@ author: "Victoria Seng"
 
 ---
 layout: post
-title: Data Science vs Statistics
 ---
 
 **What do you think being a data scientist is about?**

@@ -1,4 +1,4 @@
-Data Science vs Statistics
+Data Science & Statistics
 ================
 Victoria Seng
 
