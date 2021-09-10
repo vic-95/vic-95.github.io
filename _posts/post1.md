@@ -1,7 +1,5 @@
-Data Science v Statistics
+HW 01 - Data Science v Statistics
 ================
-Victoria Seng
-9/9/2021
 
 **What do you think being a data scientist is about?**
 
