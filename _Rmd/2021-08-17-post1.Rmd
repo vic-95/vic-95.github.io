@@ -1,6 +1,12 @@
 ---
+title: "Programming Background"
+author: "Victoria Seng"
+date: "9/9/2021"
+---
+
+---
 layout: post
-title: HW 01 - Data Science v Statistics
+title: Data Science v Statistics
 ---
 
 **What do you think being a data scientist is about?**
@@ -24,7 +30,7 @@ The point of me at work is proactively enabling leadership to make informed busi
 I'm currently at "analyst" level. I require a firmer foundation in statistics and additional programming experience. 
 
 ```{r render, include = FALSE, eval = FALSE}
-rmarkdown::render("./_Rmd/post1.Rmd", 
+rmarkdown::render("./_Rmd/2021-08-17-post1.Rmd", 
           output_format = "github_document",
           output_dir = "./_posts", 
           output_options = list(
