@@ -16,23 +16,24 @@ school.
 
 ### SQL
 
-My first language was SQL, which is markup, not programming, but was a
+My first language was SQL, which isn’t exactly programming, but was a
 great way to begin understanding relational databases. I learned
 PostgreSQL first and have branched out a little into MySQL based on
 various platforms I use at work. I’d consider SQL a quality-of-life
 add-on to other languages. You can use PROC SQL in SAS and you can use
 SQL in R. It just seems to reduce reliance on MS
-Access/Tableau/what-have-you. It wasn’t too tough to learn because I had
-coworkers to talk to and their queries to look at as examples.
+Access/Tableau/what-have-you. It wasn’t too tough to learn over time
+because I had coworkers to talk to and their queries to look at as
+examples.
 
 ### Python
 
 I also started writing python scripts for work in order to automate some
 repetitive reporting work and to create DIY integrations between various
 aspects of our tech stack. I think Python has a lot more versatility
-than R and has a greater amount of API wrappers, but I get the
-impression that the tidyverse is going to be a lot easier to work with
-than numPy/pandas, so I’m not sure yet. Python was the hardest to learn
+than R and has a greater amount of SDKs, but I get the impression that
+the tidyverse is going to be a lot easier to work with than
+numPy/pandas, so I’m not sure yet. Python was the hardest to learn
 because it was my first actual programming language, my first time
 working with APIs, and was working exclusively with Professor Google.
 There was a steep learning curve that stood apart from new-language
@@ -43,7 +44,7 @@ syntax.
 I learned the lo-code Zoho language, Deluge (Java-esque, but with a
 bunch of built-in functions. Similar to the Salesforce language) when we
 started working with that CRM for work. Deluge isn’t really a comparable
-language since it is used only in very specific circumastances. It’s a
+language since it is used only in very specific circumstances. It’s a
 cool little language that makes me think I’d like Java. It has some
 weird quirks, but wasn’t difficult to learn. Its documented quite well.
 
@@ -63,8 +64,9 @@ about programming efficiently that’s transferred to other languages.
 
 I did the free Code Academy courses on R in preparation for this class
 just to get a handle on some of the basic syntax. Other than that, I’m
-fresh. So far, the learning curve has been very manageable, and the
-packages we’ve used so far have had good documentation.
+fresh. So far, the learning curve has been very manageable, the class
+content very helpful, and the packages we’ve used so far have had good
+documentation.
 
 ## Example R Markdown Output
 
