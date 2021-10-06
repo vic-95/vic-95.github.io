@@ -1,0 +1,37 @@
+---
+title: "Project 1: Covid API"
+author: "Victoria Seng"
+---
+
+---
+layout: post
+---
+
+**What I did**
+
+In this project, I created functions that help a user query the covid19 api. I made functions for 6 endpoints, and created some helper functions for ux, namely country and date ease of entry.
+
+I also did an exploratory data analysis. There were some interesting things in there: brazil, India and the US are have by far the largest case counts in the world (given the reporting available.) North Carolina has more cases than Virginia on average. Mostly I saw that the free api is lacking data on country population, which would help put these raw case numbers in context with cases per x people.
+
+
+**The process**
+
+The most difficult part of this project was working with ggplot2. In a previous post, I hated on SAS a little, but SAS is far easier to make visualizations with than ggplot2 to me. ANother difficult thing was understanding what each endpoint was supposed to return and how it was different from the other endpoints. The documentation is not very verbose and I had to do a lot of test queries to figure it out.
+
+If I did this again, I would pick an api with paragraphs upon paragraphs of documentation. And I would pick a dataset with more catagorical variables.
+
+**The Links**
+[Project Repo]("https://vic-95.github.io/st558_project01_covid19api/")
+[The usual repo]("https://github.com/vic-95/vic-95.github.io") 
+
+```{r render, include = FALSE, eval = FALSE}
+rmarkdown::render("./_Rmd/2021-10-05-Project-1.Rmd", 
+          output_format = "github_document",
+          output_dir = "./_posts", 
+          output_options = list(
+            toc = FALSE, 
+            html_preview = FALSE, 
+            keep_html = FALSE
+            )
+          )
+```
