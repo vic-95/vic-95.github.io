@@ -1,0 +1,44 @@
+---
+title: 'Project 2: News Popularity'
+author: "Victoria Seng"
+---
+
+---
+layout: post
+---
+
+**What we did**
+
+In this project, Ipsita and I analyzed predictors associated with news articles to fit models predicting popularity by way of shares. 
+
+We read in the data, and for each data channel (6 channels) removed non-predictive variables, explored the relationship between selected predictors to each other and to the response, and fit two linear models, a random forest model, and a boosted tree model. For each channel, the winning model was reported.
+
+
+**Reflections**
+
+If I was to do something differently with this project, I think I'd like to dive deeper into varible selection. Using correlations to eliminate certain predictors was my favorite part, but I think I could do it a lot more cleanly if I learned more about the details.
+
+The most difficult part for me is dealing with axis scaling in graphs. I don't want to always remove outliers to make a visualization less squashed, especially when the outliers say something meaningful (e.g. Monday's busineess articles have a high avg share value because a few articles went viral on that day of the week, not because most articles get more shares.) I'm sure there's something simple I'm missing about image ratios or something. 
+
+I also really wanted to import a single code chunk from my .Rmd into the .R file I used for rendering so I wouldn't have to repeat code. But it seems like the `source()` function only allows .R to be imported rather than .Rmd. I get why, you can't run markdown like R. But I wish there was a way for me to reference a specific code chunk name from a .Rmd file and import that. Maybe there is and I just didn't find it.
+
+My biggest takeaways from this project are:
+
+1. There is a lot more for me to learn in regards to modeling, specifically calculating tuning params and selecting varibles. 
+2. Group projects can be really great and go really smoothly when you have a partner like Ipsita.
+
+**The Links**
+[Project Repo](https://idatta21.github.io/Project2/)
+[The usual repo](https://github.com/idatta21/Project2) 
+
+```{r render, include = FALSE, eval = FALSE}
+rmarkdown::render("./_Rmd/2021-10-28-Project-2.Rmd", 
+          output_format = "github_document",
+          output_dir = "./_posts", 
+          output_options = list(
+            toc = FALSE, 
+            html_preview = FALSE, 
+            keep_html = FALSE
+            )
+          )
+```
